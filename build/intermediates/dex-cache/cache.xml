@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/root/StudioProjects/DigitalSignature/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_3bf31f749714fc8270311a216c66e97fe2847444/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/DigitalSignature/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="621607f229a7c0c2fca3d9b2b305bc646e79098d">
+        <dex dex="/root/StudioProjects/DigitalSignature/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_fb07351fed7bdaab769f9399fe109651a9fb78b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/StudioProjects/DigitalSignature/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/root/StudioProjects/DigitalSignature/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c84559b9a226fac05d3a4996006eec908aeca797/classes.dex" />
+    </item>
+
+</items>
